@@ -1,0 +1,21 @@
+{
+    "full_name": "Michael",
+    "name": "Magic Mike",
+    "current_role": "System Engineer",
+    "location": "Singapore",
+    "email": "michael.mai@gmail.com",
+    "linkedin": "linkedin.com/in/michael-mai-8154b3111",
+    "specialties": [
+      "AI on AWS",
+      "Application Support",
+      "Software Development"
+    ],
+    "years_experience": 19,
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "NationalUniversity of Singapore",
+        "year": "2006"
+      }
+    ]
+  }
